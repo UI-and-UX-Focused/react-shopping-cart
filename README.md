@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Shopping Cart
 
 Simple React Shopping Cart
@@ -36,3 +37,7 @@ npm run build
 
 If you like to support this project, you can use the paypal link below:
 [![Buy Me a Coffee](https://res.cloudinary.com/sivadass/image/upload/v1535827506/icons/buy-me-a-coffee.png)](https://www.paypal.me/nsivadass)
+=======
+# react-shopping-cart
+A responsive shopping cart application built with React and Context API. Features include product listing, add/remove items, cart total calculation, and clean UI — perfect for eCommerce learning and portfolio projects.
+>>>>>>> 31c4eb02d381c4382bf423d44bdebc7f87d8a9db
